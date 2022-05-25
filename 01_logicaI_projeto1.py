@@ -8,7 +8,7 @@ def obter_dados():
     Essa função carrega os dados dos produtos e retorna uma lista de dicionários, onde cada dicionário representa um produto.
     NÃO MODIFIQUE essa função.
     '''
-    with open(os.path.join(sys.path[0], 'dados.json'), 'r') as arq:
+    with open(os.path.join(sys.path[0], 'dados_2.json'), 'r') as arq:
         dados = json.loads(arq.read())
     return dados
 
@@ -184,7 +184,7 @@ def menu(dados):
     opcao = input(f'\nEscolha uma opção:\n{texto_menu}\nOpção: ')
     opcao = validar_opcao(opcao, texto_menu)
 
-    while opcao != 0:
+    while opcao != '0':
         if opcao in ['2', '3', '4']:
             categoria = input('Informe a categoria que deseja consultar:\n')
             categoria = validar_categoria(categoria, dados)
@@ -207,6 +207,8 @@ def menu(dados):
         elif opcao == '6':
             print('\nTop 10 produtos mais baratos:')
             print_lista_produto(top_10_baratos(dados))
+        opcao = input(f'\nEscolha uma opção:\n{texto_menu}\nOpção: ')
+        opcao = validar_opcao(opcao, texto_menu)
     else:
         print('\n\nAté breve!\n')
 
