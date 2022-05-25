@@ -183,36 +183,31 @@ def menu(dados):
 
     opcao = input(f'\nEscolha uma opção:\n{texto_menu}\nOpção: ')
     opcao = validar_opcao(opcao, texto_menu)
-    
-    if opcao in ['2', '3', '4']:
-        categoria = input('Informe a categoria que deseja consultar:\n')
-        categoria = validar_categoria(categoria, dados)
 
-    if opcao == '1':
-        print('\nLista de categorias:')
-        print_lista_categorias(sorted(listar_categorias(dados)))
-        menu(dados)
-    elif opcao == '2':
-        print(f'\nLista de produtos da categoria {categoria.upper()}:')
-        print_lista_sem_cat(listar_por_categoria(dados, categoria))
-        menu(dados)
-    elif opcao == '3':
-        print(f'\nProduto mais caro da categoria {categoria.upper()}:')
-        print_produto_sem_cat(produto_mais_caro(dados, categoria))
-        menu(dados)
-    elif opcao == '4':
-        print(f'\nProduto mais barato da categoria {categoria.upper()}:')
-        print_produto_sem_cat(produto_mais_barato(dados, categoria))
-        menu(dados)
-    elif opcao == '5':
-        print('\nTop 10 produtos mais caros:')
-        print_lista_produto(top_10_caros(dados))
-        menu(dados)
-    elif opcao == '6':
-        print('\nTop 10 produtos mais baratos:')
-        print_lista_produto(top_10_baratos(dados))
-        menu(dados)
-    elif opcao == '0':
+    while opcao != 0:
+        if opcao in ['2', '3', '4']:
+            categoria = input('Informe a categoria que deseja consultar:\n')
+            categoria = validar_categoria(categoria, dados)
+
+        if opcao == '1':
+            print('\nLista de categorias:')
+            print_lista_categorias(sorted(listar_categorias(dados)))
+        elif opcao == '2':
+            print(f'\nLista de produtos da categoria {categoria.upper()}:')
+            print_lista_sem_cat(listar_por_categoria(dados, categoria))
+        elif opcao == '3':
+            print(f'\nProduto mais caro da categoria {categoria.upper()}:')
+            print_produto_sem_cat(produto_mais_caro(dados, categoria))
+        elif opcao == '4':
+            print(f'\nProduto mais barato da categoria {categoria.upper()}:')
+            print_produto_sem_cat(produto_mais_barato(dados, categoria))
+        elif opcao == '5':
+            print('\nTop 10 produtos mais caros:')
+            print_lista_produto(top_10_caros(dados))
+        elif opcao == '6':
+            print('\nTop 10 produtos mais baratos:')
+            print_lista_produto(top_10_baratos(dados))
+    else:
         print('\n\nAté breve!\n')
 
 # Programa Principal - não modificar!
