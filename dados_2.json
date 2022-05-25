@@ -1,2502 +1,2502 @@
 [
   {
-    "id": "628e98733422cdd28ae33d59",
-    "preco": 9001.59,
+    "id": "628e9c3e854a0234a6c53cd2",
+    "preco": "7544.01",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873a507153c7635bd63",
-    "preco": 9406.11,
-    "categoria": "food_&_beverages"
+    "id": "628e9c3eb645ca4ccc1c4d6b",
+    "preco": "9504.38",
+    "categoria": "textiles"
   },
   {
-    "id": "628e987339b39f2772bdacce",
-    "preco": 7236.07,
+    "id": "628e9c3e2f241b5024edddf5",
+    "preco": "5917.08",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e38f05829a824790e",
+    "preco": "9527.41",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e5495df9fa20be488",
+    "preco": "5255.44",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e70a46e0eb77defe7",
+    "preco": "5107.18",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e0327b80e5d98335e",
+    "preco": "7875.66",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e89a0411143d109f1",
+    "preco": "9379.02",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3eb1d105d3edd57f4d",
+    "preco": "5712.10",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e4a65c2b65f407c52",
+    "preco": "7575.05",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3eaf83d0dd6c084867",
+    "preco": "9383.18",
     "categoria": "furniture"
   },
   {
-    "id": "628e98734a23f07afe6f67ce",
-    "preco": 7707.84,
+    "id": "628e9c3eaea5bcf89103d45e",
+    "preco": "6606.57",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e9873f14b3a7e358162cf",
-    "preco": 9619.19,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873250d530244868e1a",
-    "preco": 8014.34,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873278a0df69f7cde03",
-    "preco": 9377.77,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98734814cc4e9168252b",
-    "preco": 6226.13,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e98738439814d3e8d37a7",
-    "preco": 6462.13,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987303a31f911a79824a",
-    "preco": 7659.24,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e98732b5fcdb943043233",
-    "preco": 7466.03,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873ffef62c1954e5663",
-    "preco": 7463.11,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873b4a446ca26db72d5",
-    "preco": 8513.08,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873d10ea1104baae873",
-    "preco": 8892.52,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873ed9cd2e4142f1cae",
-    "preco": 8226.34,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873e48b4c39483195b7",
-    "preco": 5669.14,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987367fbce619ffe5e3e",
-    "preco": 7603.64,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873465d08cece6f5001",
-    "preco": 6670.44,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873c638e2a7526d7eb4",
-    "preco": 6943.71,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987317af6d5dc0668a73",
-    "preco": 5109.79,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873f12606b13ca5ea28",
-    "preco": 5317.38,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987361a590ccdcedf902",
-    "preco": 5479.5,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873ad238f497caa6b85",
-    "preco": 9663.45,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873d9270a87ad4f1f34",
-    "preco": 9516.5,
+    "id": "628e9c3e8e94bee60c4c7151",
+    "preco": "8742.02",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873780e2308ac1c7cc3",
-    "preco": 9504.32,
-    "categoria": "home_improvement"
+    "id": "628e9c3ee4bfd1f20dd906a3",
+    "preco": "6502.20",
+    "categoria": "cookware_&_tableware"
   },
   {
-    "id": "628e98731c4f2d93fa0f2f90",
-    "preco": 9346.08,
-    "categoria": "plants_&_plant_pots"
+    "id": "628e9c3e86473d6e643477cb",
+    "preco": "7553.91",
+    "categoria": "lighting"
   },
   {
-    "id": "628e9873494f7c5559a170b9",
-    "preco": 9992.69,
-    "categoria": "working_from_home"
+    "id": "628e9c3eb842ee2c60fb053c",
+    "preco": "9692.33",
+    "categoria": "lighting"
   },
   {
-    "id": "628e9873a5a2078a67f16c72",
-    "preco": 8143.8,
+    "id": "628e9c3e39fb46e65fb76ac0",
+    "preco": "8102.49",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e8c4bc7dd7ed342ac",
+    "preco": "5831.37",
     "categoria": "home_smart"
   },
   {
-    "id": "628e98735b8a6e036744eae3",
-    "preco": 6889.19,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98735d7b0fbb6116baa0",
-    "preco": 5788.64,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987322fdb90a05751290",
-    "preco": 5078.56,
+    "id": "628e9c3e56820020f0c705ba",
+    "preco": "6203.59",
     "categoria": "kitchens"
   },
   {
-    "id": "628e9873fc0d67f693507abf",
-    "preco": 8550.07,
-    "categoria": "storage_&_organisation"
+    "id": "628e9c3e81314ba70b94d370",
+    "preco": "8758.71",
+    "categoria": "cookware_&_tableware"
   },
   {
-    "id": "628e9873c77b59b306775afb",
-    "preco": 5979.46,
-    "categoria": "baby_&_children"
+    "id": "628e9c3e8e45c696c78a9611",
+    "preco": "5329.08",
+    "categoria": "outdoor_living"
   },
   {
-    "id": "628e9873367c5dacc4c50048",
-    "preco": 7305.27,
-    "categoria": "textiles"
+    "id": "628e9c3e603b1534232336a3",
+    "preco": "9962.12",
+    "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e98738ceb20dad86c179a",
-    "preco": 6682.23,
-    "categoria": "laundry_&_cleaning"
+    "id": "628e9c3e876224748b58cf2f",
+    "preco": "8268.29",
+    "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e9873c5f099678caba9bf",
-    "preco": 6090,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873885efbea5619ff7e",
-    "preco": 5864.64,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873076a47c1800e8a47",
-    "preco": 7395.37,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98730fbb23843e8c9096",
-    "preco": 7891.85,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98735db031a17ab665f9",
-    "preco": 7087.42,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873ede0ec4a29de60a1",
-    "preco": 5704.97,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873b94852910879e4b8",
-    "preco": 5370.79,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987311871cf4a022f316",
-    "preco": 7958.92,
+    "id": "628e9c3e5d6d762222ddd741",
+    "preco": "6148.41",
     "categoria": "rugs_mats_&_flooring"
   },
   {
-    "id": "628e987315807e6f2f0f6e19",
-    "preco": 7732.93,
+    "id": "628e9c3e5bc18ac4e9ff4b4c",
+    "preco": "7580.01",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e8bc213ec6e8a3a38",
+    "preco": "5818.05",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3ef8f789ddc1ce6660",
+    "preco": "8192.95",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eb1c535aa9b51bedf",
+    "preco": "5299.94",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ecdeaaba2629b91c9",
+    "preco": "9675.44",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3eadf9a520179abc77",
+    "preco": "7981.61",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e7f36c3a65055a0cf",
+    "preco": "5514.22",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3ec920ad9cef8cb8c9",
+    "preco": "7440.13",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ea7a5519d4cc23351",
+    "preco": "9385.43",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e35df6e32ae0726f2",
+    "preco": "9772.68",
     "categoria": "laundry_&_cleaning"
   },
   {
-    "id": "628e9873ced7c6730f670852",
-    "preco": 5192.6,
+    "id": "628e9c3e658df1eb7cf061a8",
+    "preco": "7818.03",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e7295a65fa25612be",
+    "preco": "9395.15",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e238a9f28eeb6fc61",
+    "preco": "9352.89",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e563d3ef277bc73c0",
+    "preco": "7547.39",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3eaf0c5b4f77758f84",
+    "preco": "6729.44",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3ed9091ac9a8145388",
+    "preco": "8776.56",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e6a65b7add10faf67",
+    "preco": "8903.23",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e19e7c5679548bdb4",
+    "preco": "5909.68",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3eac5c5d13183ac457",
+    "preco": "9959.87",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e0da8f14d9336a57b",
+    "preco": "6195.86",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e81f29ddf14453912",
+    "preco": "8777.83",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e577bcf0b802eb637",
+    "preco": "5186.63",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e235443cfa3215969",
+    "preco": "9942.60",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3efabbf4b2fbaaae9d",
+    "preco": "8120.15",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e6c13d1e5d6390610",
+    "preco": "6745.13",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3ef699be7e53578914",
+    "preco": "5921.80",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3eee1acb2c4bb7ed1d",
+    "preco": "9488.96",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3edb61522f8464ffd4",
+    "preco": "8135.46",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e92f3382094cfb14b",
+    "preco": "5951.77",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e95b2945d4c4f0d36",
+    "preco": "7334.23",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3efcb0436e45a8dc0d",
+    "preco": "9011.94",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e1191f9f37ebbbdd3",
+    "preco": "7492.78",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e6590aa54792e1feb",
+    "preco": "6392.31",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e4c7e6b205aea082f",
+    "preco": "5890.27",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e075d7d7e72c4e49e",
+    "preco": "9660.64",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3eff6e5ca11a018623",
+    "preco": "7204.32",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ec345133058758d5f",
+    "preco": "9816.83",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e9c6a6dfbe07af450",
+    "preco": "9358.31",
     "categoria": "working_from_home"
   },
   {
-    "id": "628e9873c2e4092f47a4d927",
-    "preco": 7743.77,
+    "id": "628e9c3e257aaadcdeb95def",
+    "preco": "5644.83",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3efffaab74f56a89ee",
+    "preco": "6736.97",
     "categoria": "furniture"
   },
   {
-    "id": "628e987327ccab3228f87e71",
-    "preco": 5072.1,
-    "categoria": "home_smart"
+    "id": "628e9c3eb8e4ce069e47295e",
+    "preco": "7321.00",
+    "categoria": "decoration"
   },
   {
-    "id": "628e98730ac316777b458309",
-    "preco": 7497.43,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e987372e931e83252fb70",
-    "preco": 9240.64,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987329e2a73681e78205",
-    "preco": 9117.42,
+    "id": "628e9c3e852b050f655004af",
+    "preco": "7728.15",
     "categoria": "textiles"
   },
   {
-    "id": "628e9873d011eb1280f406ea",
-    "preco": 8490.98,
-    "categoria": "outdoor_living"
+    "id": "628e9c3efcccc34fafe5a45e",
+    "preco": "7025.05",
+    "categoria": "working_from_home"
   },
   {
-    "id": "628e9873626b5aa18cf618c4",
-    "preco": 7522.66,
+    "id": "628e9c3ebacfd0db6eba56bb",
+    "preco": "6488.12",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e5c4cc6cedfff2f5f",
+    "preco": "6039.58",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ed5d7903e225d3d20",
+    "preco": "6246.20",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e81731e856524cb4f",
+    "preco": "9654.29",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3efec5d67e0aa59214",
+    "preco": "7528.52",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ef9cc3b52f743767a",
+    "preco": "7578.28",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ee99834c22af6ef59",
+    "preco": "9954.46",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e00d77193710ae27d",
+    "preco": "5244.61",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e261f66737e8d7b1e",
+    "preco": "7523.18",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e05a7435273b1d373",
+    "preco": "9778.13",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873721cc3d47a4ccfb0",
-    "preco": 8606.93,
+    "id": "628e9c3e23c841dadc780717",
+    "preco": "5181.16",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e15bfb0c5bf252454",
+    "preco": "6985.74",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e3bd5dc7a573f7a9d",
+    "preco": "7361.27",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3ef54243cc9845ce0c",
+    "preco": "6492.64",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e45f68a9f1418c54c",
+    "preco": "8962.32",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ea1153188855d2057",
+    "preco": "6880.04",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873dcff85f4222de280",
-    "preco": 6810.72,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873d7d7c55ae5f7c932",
-    "preco": 9543.95,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873dc2715fce37e318a",
-    "preco": 5705.79,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987329e291f08b3f77f6",
-    "preco": 8971.68,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873ddfd56bb1291ee0f",
-    "preco": 8979.06,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98734ed0c92ba3c8864a",
-    "preco": 6474.05,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873e651fab2415be842",
-    "preco": 9967.54,
+    "id": "628e9c3e83ba3a38aed29894",
+    "preco": "5293.30",
     "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e9873d3db3c32c233ba9d",
-    "preco": 6201.3,
-    "categoria": "baby_&_children"
+    "id": "628e9c3e3c8358875e527602",
+    "preco": "5926.32",
+    "categoria": "cookware_&_tableware"
   },
   {
-    "id": "628e9873c75063d6014067ea",
-    "preco": 8716.12,
+    "id": "628e9c3e7e1e9e546112e009",
+    "preco": "5867.74",
     "categoria": "food_&_beverages"
   },
   {
-    "id": "628e9873e178f1e282baade9",
-    "preco": 7078.76,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873127411c7d5a478b8",
-    "preco": 6388,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987363b9b0cf0075e23f",
-    "preco": 6787.68,
+    "id": "628e9c3e32017681ecdbeab4",
+    "preco": "8469.11",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e987334344bba0a48c17c",
-    "preco": 8126.93,
-    "categoria": "beds_&_mattresses"
+    "id": "628e9c3e1396469230e6ab7f",
+    "preco": "8629.93",
+    "categoria": "bathroom_products"
   },
   {
-    "id": "628e987386d3d7e9fee6691d",
-    "preco": 6417.88,
-    "categoria": "textiles"
+    "id": "628e9c3ea7a78d46e7eeb492",
+    "preco": "8938.86",
+    "categoria": "baby_&_children"
   },
   {
-    "id": "628e98736ae9b59145adbea6",
-    "preco": 6143.02,
-    "categoria": "textiles"
+    "id": "628e9c3e910653ce7cf2e4ca",
+    "preco": "6278.87",
+    "categoria": "home_electronics"
   },
   {
-    "id": "628e987319867d278b2f0327",
-    "preco": 8362.37,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98731525e327bb49a0ff",
-    "preco": 9963.62,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873babda50d2e19ecd0",
-    "preco": 5637.46,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873b10c114eb5ba358f",
-    "preco": 9825.75,
+    "id": "628e9c3e067c9479113d5f4c",
+    "preco": "9993.94",
     "categoria": "home_improvement"
   },
   {
-    "id": "628e9873754a89ed6acdc667",
-    "preco": 8735.34,
-    "categoria": "kitchens"
+    "id": "628e9c3e8b2612dd5a105fa4",
+    "preco": "9522.35",
+    "categoria": "lighting"
   },
   {
-    "id": "628e9873e3ecf480cc6ef7f0",
-    "preco": 7309.53,
-    "categoria": "laundry_&_cleaning"
+    "id": "628e9c3ed81cbe2524d5c39a",
+    "preco": "5944.19",
+    "categoria": "lighting"
   },
   {
-    "id": "628e987362c62dd300cd188c",
-    "preco": 9616.27,
-    "categoria": "rugs_mats_&_flooring"
+    "id": "628e9c3e1229217ab486e53c",
+    "preco": "9652.59",
+    "categoria": "baby_&_children"
   },
   {
-    "id": "628e98737b4512e03fd8c285",
-    "preco": 5550.78,
+    "id": "628e9c3e5d8dd43897c0bc7b",
+    "preco": "9538.91",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e6df42f263d2f993a",
+    "preco": "8240.73",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e987300c35c4ddf9fb5a1",
-    "preco": 5902.62,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e987318a1eeaa06c11b8f",
-    "preco": 9766.06,
+    "id": "628e9c3ee115df36b127bd23",
+    "preco": "6461.97",
     "categoria": "decoration"
   },
   {
-    "id": "628e987320f86568521bd9ad",
-    "preco": 6067.02,
+    "id": "628e9c3e398fd2e49eb56db8",
+    "preco": "6124.30",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e02aa0e41a9779fcb",
+    "preco": "8098.71",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e9c3af4bbf5c09020",
+    "preco": "5840.44",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873e3544ae44176ad3c",
-    "preco": 8664.44,
-    "categoria": "cookware_&_tableware"
+    "id": "628e9c3e8bd4bd3bc0478a2b",
+    "preco": "7291.11",
+    "categoria": "outdoor_living"
   },
   {
-    "id": "628e987324d97195e50a4f60",
-    "preco": 5721.85,
-    "categoria": "cookware_&_tableware"
+    "id": "628e9c3e8789a8da5e3fdcfa",
+    "preco": "6799.17",
+    "categoria": "storage_&_organisation"
   },
   {
-    "id": "628e987330f30dfbcadfd744",
-    "preco": 6268.35,
+    "id": "628e9c3e46bc9a2cc9b409bc",
+    "preco": "9378.55",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e87b7e0843b183ed6",
+    "preco": "7858.60",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e77ef1dc75e191398",
+    "preco": "8154.13",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3eb3c3b9a19fac632a",
+    "preco": "5225.36",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ebf2574430cbf8d29",
+    "preco": "5647.42",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e3a10cc92db00cca9",
+    "preco": "8739.83",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e59d1521c95de986a",
+    "preco": "8785.57",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e6a55c89628a2f2d8",
+    "preco": "8242.49",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e5a8173847b42590e",
+    "preco": "5922.38",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e2f03688980853635",
+    "preco": "5062.93",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e46905578a2ca23f2",
+    "preco": "7394.66",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3eb1b2c5010ae5601e",
+    "preco": "6102.27",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e645a199749808f27",
+    "preco": "5878.61",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e221e3d1cc67bfc93",
+    "preco": "9906.18",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e3fe9f233b939cf74",
+    "preco": "7264.71",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e3eebbe8efe8556e4",
+    "preco": "5399.58",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e94386f424ac2c4c9",
+    "preco": "6163.14",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ea71779cd43a05d55",
+    "preco": "6910.12",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e2ec2520497e3e1f1",
+    "preco": "9030.49",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e0147bccfa7c157a6",
+    "preco": "9613.68",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3eb4dadbb1eb5f7782",
+    "preco": "5623.00",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e11bc6a9a23f1f307",
+    "preco": "7210.41",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3eb5610d7809bf42b4",
+    "preco": "9554.03",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ee2cc539fc518fdea",
+    "preco": "9958.33",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ee371662516d95f29",
+    "preco": "9876.00",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e9e31e471b36a35ae",
+    "preco": "7627.65",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e1a6bfef28c34fa35",
+    "preco": "8994.45",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e5b0300bf610bab04",
+    "preco": "7173.27",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3eeaea5808242f6982",
+    "preco": "7661.98",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873c1530486c9e636ca",
-    "preco": 6835.76,
+    "id": "628e9c3e2aa1004d5f31a175",
+    "preco": "5662.48",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e9726049fd7c87cb9",
+    "preco": "9857.58",
     "categoria": "working_from_home"
   },
   {
-    "id": "628e9873dc672c744122d924",
-    "preco": 6978.63,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e987382c3db0d9d062937",
-    "preco": 6527.13,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98730effd7a406d2f69b",
-    "preco": 6468.73,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873ed6216e654a0de9c",
-    "preco": 6590.4,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873300813ded5509b32",
-    "preco": 8085.16,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873d71636b248cdb725",
-    "preco": 9613.04,
+    "id": "628e9c3e10a4cede0dccf476",
+    "preco": "5888.79",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873cbd54a9e7136bd00",
-    "preco": 6482.86,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98732486d3c3c4780139",
-    "preco": 5929.05,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873b6808eaaee048862",
-    "preco": 8421.08,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98730b079a8063de0cab",
-    "preco": 9810.58,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873115027b81ae11962",
-    "preco": 8358.5,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873625ec6334a57d4f9",
-    "preco": 7307.8,
+    "id": "628e9c3e1e53f1ca6505434c",
+    "preco": "8281.22",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873c46c5e8d95cc618d",
-    "preco": 6770.12,
+    "id": "628e9c3e0cd94e193dd780ab",
+    "preco": "5391.43",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e98737e92d48d80775b7d",
-    "preco": 8275.57,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873eebe6a94e66774b5",
-    "preco": 8683.35,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98734e24e6beabe92f7d",
-    "preco": 8725.9,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987390479f33cf133795",
-    "preco": 7185.48,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873d4253c85d5562050",
-    "preco": 9929.27,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873292ff069e7310fcb",
-    "preco": 8591.29,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873304e0f0f5c2a43da",
-    "preco": 6047.33,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e987390c6a62cf1d08ee3",
-    "preco": 8624.22,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e987393145ab0b395f7a2",
-    "preco": 7419.95,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98735fd210193db99180",
-    "preco": 9691.8,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e98737e082014b1cb896b",
-    "preco": 5210.62,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873d635e7dbbc2558bc",
-    "preco": 8400.91,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e98732d0a12b8ecdf6f44",
-    "preco": 5898.89,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987371ade95b43701643",
-    "preco": 9718.4,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987355afa88bb7d82320",
-    "preco": 6316.98,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98731a6765558b77cc07",
-    "preco": 7266.42,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987377c96be578466e20",
-    "preco": 5306.57,
+    "id": "628e9c3e0a781f5ceaaa3b8c",
+    "preco": "8505.94",
     "categoria": "food_&_beverages"
   },
   {
-    "id": "628e9873c69d9a207cbf2b2b",
-    "preco": 7664.36,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873d7183ceeb343caa3",
-    "preco": 9322.38,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e987350b09b3cf0b2b2fc",
-    "preco": 7797.72,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873f5518b7695af698f",
-    "preco": 6544.42,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e987319eeb3aeb2f2a57c",
-    "preco": 9988.07,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873c646c7691d7d74cd",
-    "preco": 7479.85,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873b4240e906ec7e5bd",
-    "preco": 5320.42,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873403392bcf4a92903",
-    "preco": 6777.6,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873a587847550333803",
-    "preco": 6039.67,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873b43bf81b52f67064",
-    "preco": 8182.74,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873ff0e0b1b2fb35fa0",
-    "preco": 5422.68,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873b68708e6bfbff230",
-    "preco": 9010.27,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873a3f6a63db37ae2e8",
-    "preco": 7374.28,
+    "id": "628e9c3e0f6a8b6ca52819f9",
+    "preco": "9144.05",
     "categoria": "decoration"
   },
   {
-    "id": "628e9873c3e5d4806f841352",
-    "preco": 5216.51,
+    "id": "628e9c3eab0080bd9240f397",
+    "preco": "5499.93",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e4025441a3719eb05",
+    "preco": "9635.50",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3edd86cf12c47e3459",
+    "preco": "9582.16",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e98f5d13f3f4f0df1",
+    "preco": "6269.40",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e41a9cb8447130157",
+    "preco": "8890.03",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e87f56c4b3e656bb1",
+    "preco": "5685.26",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e1008daccd71cff7a",
+    "preco": "7419.09",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e3644c01658bfc618",
+    "preco": "5768.85",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ed36d41b7185ad32a",
+    "preco": "9574.54",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e9873cabdbbef94a8d2b4",
-    "preco": 6919.76,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e987384f08e271a3f9729",
-    "preco": 5380.73,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873e52d9435f67acf82",
-    "preco": 9120.7,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98738a58bd815243b186",
-    "preco": 5490.01,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873e97b31c62257bb61",
-    "preco": 5882.54,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e987373d3795855722b69",
-    "preco": 9148.17,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e98733d8cdb02bcdb391f",
-    "preco": 8250.93,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98732731c674e6669ba0",
-    "preco": 8558.83,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873ebce2597829509aa",
-    "preco": 5787.27,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873f9ae7685c621f520",
-    "preco": 9237.73,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987376d2a62c6c8d836d",
-    "preco": 5188.55,
+    "id": "628e9c3e4dea6f60a3f47264",
+    "preco": "6497.80",
     "categoria": "kitchens"
   },
   {
-    "id": "628e9873fc8403b3396a4206",
-    "preco": 7757.55,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98732b8d329bd371651a",
-    "preco": 6906.44,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873fd783b6d74abcaf9",
-    "preco": 6043.54,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e987374dd08e0bba88264",
-    "preco": 8655.84,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873e3adc2f2fdc52a94",
-    "preco": 8634.26,
+    "id": "628e9c3e8b7b08d2dcc72809",
+    "preco": "9367.11",
     "categoria": "outdoor_living"
   },
   {
-    "id": "628e98732dda30c473aba370",
-    "preco": 7210.41,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987395e20c85ffc0aadf",
-    "preco": 5944.56,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873ddb222ba3673aa45",
-    "preco": 6201.47,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987303ae8b58a39947c3",
-    "preco": 7972.74,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873fe0787e454e99f9d",
-    "preco": 7890.47,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e987324f6a2dae1cb3200",
-    "preco": 6490.97,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98736f51a002d46a3bdc",
-    "preco": 7034.27,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873f5c63793589f58ae",
-    "preco": 5408.56,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873eee33cad01303ddc",
-    "preco": 5964.1,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873d9479d01fd6bf8dd",
-    "preco": 8283.28,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98733ab187149adfe439",
-    "preco": 6974.88,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e98736975fa3374111fe8",
-    "preco": 8467.34,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873a79fde99e1ba164c",
-    "preco": 8168.35,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987304b4e80ff9c11e53",
-    "preco": 7199.46,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987357ad0d3868df607f",
-    "preco": 5489.16,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98737c4cd0ea69d6e8f4",
-    "preco": 7717.54,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e987307c6879bcb862175",
-    "preco": 6482.95,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873d9cf2d3a3cb44c12",
-    "preco": 9943.19,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98731cc792b2f2b6fedb",
-    "preco": 7238.64,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e98733ccc50f4f12b6c79",
-    "preco": 9284.64,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98734246ad9195b68a18",
-    "preco": 5191.1,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873320d53569d98ad3b",
-    "preco": 6507.11,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98731f7bf23691641b16",
-    "preco": 7036.34,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873e195bffadbebbe7d",
-    "preco": 7269.88,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873780ac69bf13440b1",
-    "preco": 6273.41,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98734a75a67c3e15df62",
-    "preco": 8601.01,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873d948656dbe4e9641",
-    "preco": 8591.73,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987341c997ed2df2d2ac",
-    "preco": 9621.16,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98736b1f987b51c96694",
-    "preco": 7753.81,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e98737c730e3607e6b175",
-    "preco": 8823.19,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987390108f3f4184e858",
-    "preco": 8513.29,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98738b5ce92b943f39c2",
-    "preco": 9913.38,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e987333d083975758229d",
-    "preco": 8907.05,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98734b6e085916f60f6b",
-    "preco": 8264.44,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98732158ca376de77dea",
-    "preco": 9239.49,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98731252c3728727d4ce",
-    "preco": 5202.18,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98730a9b643da6a41028",
-    "preco": 7674.39,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873652fc852e89745ab",
-    "preco": 5334.57,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873a5cde122771fc01a",
-    "preco": 8585.08,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873d2af54a627bee29b",
-    "preco": 6526.78,
+    "id": "628e9c3e6e122c2b0e61d5a2",
+    "preco": "8474.56",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873c6bc2a322c17e092",
-    "preco": 6887.59,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873681ebc6ff2330fce",
-    "preco": 5818.95,
+    "id": "628e9c3e4a6b71a21f243deb",
+    "preco": "6043.78",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873e99720df29c00fd4",
-    "preco": 7135.55,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873ffacfa6b49bea3a4",
-    "preco": 9876.95,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873579888d77083900f",
-    "preco": 8191.69,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873654a198ddf3db727",
-    "preco": 6003.92,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873004303ae3a72ad9a",
-    "preco": 8015.05,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873336b0d93deada7a1",
-    "preco": 9701.85,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873c0dac0fa4dd808e2",
-    "preco": 8808.46,
+    "id": "628e9c3e510248142af2d31e",
+    "preco": "5889.55",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873fa81e53a6af945c1",
-    "preco": 8298.68,
-    "categoria": "home_smart"
+    "id": "628e9c3efc07faad839df04b",
+    "preco": "5455.99",
+    "categoria": "rugs_mats_&_flooring"
   },
   {
-    "id": "628e987305b21af39ac7d99f",
-    "preco": 9014.92,
-    "categoria": "beds_&_mattresses"
+    "id": "628e9c3e57440ac69013163a",
+    "preco": "6251.96",
+    "categoria": "outdoor_living"
   },
   {
-    "id": "628e9873b88f3afc0a829a46",
-    "preco": 9849.01,
-    "categoria": "kitchens"
+    "id": "628e9c3e8aa54ef67781bdfc",
+    "preco": "5034.49",
+    "categoria": "lighting"
   },
   {
-    "id": "628e987376762fffc2814d02",
-    "preco": 5232.64,
+    "id": "628e9c3ee74d491ddda7e40c",
+    "preco": "9112.11",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e98736d7e613b4e620d86",
-    "preco": 9861.77,
+    "id": "628e9c3e1bd6adbcf1c0a9ae",
+    "preco": "5828.85",
     "categoria": "home_electronics"
   },
   {
-    "id": "628e9873a4cd20acb975308b",
-    "preco": 8210.28,
+    "id": "628e9c3e5637d86529d8ccec",
+    "preco": "8458.24",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e3f54688cb1088788",
+    "preco": "9083.41",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ef9622bed006d5dc0",
+    "preco": "6062.65",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e6979c0e4c4f7787f",
+    "preco": "6224.68",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ee7c21087b37b7f53",
+    "preco": "5351.44",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e42fb2d37fc11fb61",
+    "preco": "7506.01",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e3d15b9ec05249e53",
+    "preco": "9888.34",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ef8ad0355fc19d188",
+    "preco": "9008.98",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3eecb6cf8063083c6b",
+    "preco": "6140.07",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e126da57efc79c736",
+    "preco": "9728.40",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e5d24da68609ab91b",
+    "preco": "7289.53",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e89c86b50adcfe272",
+    "preco": "8254.08",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e5f05cbb2980b331e",
+    "preco": "8492.49",
     "categoria": "kitchens"
   },
   {
-    "id": "628e98738f46c5eb3dfe8a61",
-    "preco": 8379.1,
+    "id": "628e9c3e4cd0108ecf601844",
+    "preco": "9193.96",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e02e3cb9591a1f01a",
+    "preco": "7348.93",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873470f45d9a5c09b07",
-    "preco": 8519.6,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873eeb056e9d64c66a6",
-    "preco": 9465.03,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98737ca38e0103ec6b1f",
-    "preco": 5647.87,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e98733344d234da89cdd0",
-    "preco": 6328.54,
+    "id": "628e9c3e1b6f6c41d54f4cbf",
+    "preco": "5154.31",
     "categoria": "decoration"
   },
   {
-    "id": "628e9873489f2cddff70da39",
-    "preco": 9028.28,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98736615b9191b62743c",
-    "preco": 5435.59,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873d3fc0e557e99ccb4",
-    "preco": 8013.5,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873e4de41b1cd51b51c",
-    "preco": 7164.22,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98733b923d6d5b9b1a7a",
-    "preco": 7085.5,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e987346427657845cd627",
-    "preco": 6971.51,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98736acfd7543d30b641",
-    "preco": 9585.61,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873de1eac54859c6bbd",
-    "preco": 6925.4,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e98732c03085b05513485",
-    "preco": 7137.41,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873748436353363bc28",
-    "preco": 8445.51,
+    "id": "628e9c3eb1f17b94ee4d7645",
+    "preco": "7530.37",
     "categoria": "plants_&_plant_pots"
   },
   {
-    "id": "628e9873123c754b28ac98a2",
-    "preco": 9392.71,
-    "categoria": "rugs_mats_&_flooring"
+    "id": "628e9c3e8ced045c9ff33729",
+    "preco": "9955.22",
+    "categoria": "outdoor_living"
   },
   {
-    "id": "628e9873b17a2293357e56b9",
-    "preco": 6227.02,
-    "categoria": "lighting"
+    "id": "628e9c3eaac5fe0dcfdce0f8",
+    "preco": "7336.10",
+    "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e98732fb8e064b878fe88",
-    "preco": 6217.42,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987322b2838cee0c2604",
-    "preco": 9487.15,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873f9fe7fd61cc6d536",
-    "preco": 7495.32,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98735cda7402f5cffd93",
-    "preco": 6995.68,
+    "id": "628e9c3e00498a2877ea2496",
+    "preco": "7171.15",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e98736f32aaf7e2b2475b",
-    "preco": 9016.42,
+    "id": "628e9c3eb4cb96ebb66a2e23",
+    "preco": "6033.53",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e03b1b13414423817",
+    "preco": "7002.11",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3eefe6ca3bd7250c2b",
+    "preco": "7247.39",
     "categoria": "home_smart"
   },
   {
-    "id": "628e9873ff16818fbeb65fea",
-    "preco": 6143.15,
-    "categoria": "home_smart"
+    "id": "628e9c3ef524e567ab4fb04d",
+    "preco": "5295.57",
+    "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e98732f2129562a18d350",
-    "preco": 9909.26,
+    "id": "628e9c3ef0eaec0476032d89",
+    "preco": "6641.10",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3edd66372921feafa3",
+    "preco": "8961.93",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e28f43895ef9cd30f",
+    "preco": "5500.77",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3eb18a9ec557d78441",
+    "preco": "6602.29",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3ef578900c8b46c9aa",
+    "preco": "6719.84",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e7a4c637f267d89f0",
+    "preco": "7725.64",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e56afe54beaf3b78f",
+    "preco": "9159.52",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3ec4bf3c23781564f4",
+    "preco": "6191.46",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3eb10d9fd564112e9c",
+    "preco": "7864.04",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e4e33f570db337661",
+    "preco": "5359.58",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3ecf39bd2f6ce3ab6b",
+    "preco": "6322.03",
     "categoria": "food_&_beverages"
   },
   {
-    "id": "628e9873be3ec5ea6edce8c8",
-    "preco": 7370.31,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e98738f3132251780c4eb",
-    "preco": 6542.77,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98734f2e68cef8d6184d",
-    "preco": 7288.13,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873eda833131fb71c57",
-    "preco": 8716.51,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987327fdcd256d371915",
-    "preco": 7610.27,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873e7b76e4e0adf6566",
-    "preco": 6390.67,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873997e8c13686b5804",
-    "preco": 9346.88,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987331baf2b5e50bdfbb",
-    "preco": 7091.54,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e987375e7cb1dd43618ba",
-    "preco": 8765.61,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873e7ab93151eb2708c",
-    "preco": 5048.87,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e98734423269239242af0",
-    "preco": 7513.57,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e987300bd6403de57d952",
-    "preco": 6752.95,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987315d28f64d2b3a0c7",
-    "preco": 6387.46,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987360d6f16702fea589",
-    "preco": 9167.65,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e987314fc76ea02a02172",
-    "preco": 8980.25,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e98736811d49ff8113d90",
-    "preco": 7580.59,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e987344dd7bf952ef9da4",
-    "preco": 9514.73,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e987395d5756276d7777b",
-    "preco": 5212.35,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873ad7ddb8fcbaca2da",
-    "preco": 7177.45,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873dcc7109996f278e6",
-    "preco": 7789.52,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873d52341c182bad836",
-    "preco": 9289.59,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873b8d27f0f5278fedf",
-    "preco": 9800.14,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873e3232b7f43964d42",
-    "preco": 8650.11,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98738b3e4f69db0ada12",
-    "preco": 5794.37,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873182a4f5770a0d9d1",
-    "preco": 6341.13,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987338a5733ef1bfb152",
-    "preco": 5743.33,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873673d9b4e8e46d862",
-    "preco": 7834.3,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873182e8f61cc259479",
-    "preco": 5553.45,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873b1e4d5958227169f",
-    "preco": 5799.6,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e987305f0ea716fbda55b",
-    "preco": 7314.79,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e98736ace511dddc10c7e",
-    "preco": 8003.17,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98733bee2587e3d6fb2e",
-    "preco": 6739.03,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873e217464d97e6094c",
-    "preco": 8970.99,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987320ee9a489d105ab1",
-    "preco": 7383.29,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873b4e760b20baaa55d",
-    "preco": 6156.16,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873807b3243b8b8acc6",
-    "preco": 8087.43,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98730a63479b59b8a427",
-    "preco": 7628.33,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987312aeb66daf85b53c",
-    "preco": 7437.66,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873dc9f5d72fa4b721f",
-    "preco": 8037.42,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98732e17aa5fc6e1dd47",
-    "preco": 6078.21,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e987316fda30287ae4c22",
-    "preco": 6089.53,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987384ac23fafac4b5a5",
-    "preco": 8007.47,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987369c5aa3aa168f643",
-    "preco": 7267.29,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873fbaa29c351066fb2",
-    "preco": 7373.99,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987342d4d31a6068ce5c",
-    "preco": 9479.39,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873259d3cdb30c572b4",
-    "preco": 9282.66,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873faafd79e94f45ba5",
-    "preco": 7777.49,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873170f579c204148be",
-    "preco": 7529.47,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873a75b61d3827c7098",
-    "preco": 8278.46,
+    "id": "628e9c3e577de6bb01c17546",
+    "preco": "8003.35",
     "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873dbf69599c5debacd",
-    "preco": 8846.06,
-    "categoria": "beds_&_mattresses"
+    "id": "628e9c3e80a88a3bf65304d8",
+    "preco": "9131.28",
+    "categoria": "plants_&_plant_pots"
   },
   {
-    "id": "628e9873a6d8c5df60c5952d",
-    "preco": 8907.93,
+    "id": "628e9c3e0b21b68679ffbb08",
+    "preco": "7406.08",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e5e7d2685f0657f6f",
+    "preco": "6340.25",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e87603df62129ebe3",
+    "preco": "8330.94",
     "categoria": "kitchens"
   },
   {
-    "id": "628e9873de45ae07880f400f",
-    "preco": 9449.57,
+    "id": "628e9c3ef14abdf2b8fae61c",
+    "preco": "9739.95",
     "categoria": "home_electronics"
   },
   {
-    "id": "628e9873308b83576ad73fa6",
-    "preco": 8486.92,
-    "categoria": "home_electronics"
+    "id": "628e9c3e1cb91f9dda6c0dab",
+    "preco": "6798.75",
+    "categoria": "home_improvement"
   },
   {
-    "id": "628e98734f7a695686e7b637",
-    "preco": 7936.47,
-    "categoria": "bathroom_products"
+    "id": "628e9c3eaa92515ba5aa811c",
+    "preco": "9829.85",
+    "categoria": "cookware_&_tableware"
   },
   {
-    "id": "628e98738fee9ccd664bd57c",
-    "preco": 5201.19,
-    "categoria": "textiles"
+    "id": "628e9c3edf5b9e140dbfcfcc",
+    "preco": "6574.70",
+    "categoria": "working_from_home"
   },
   {
-    "id": "628e9873eb927289eba64d5c",
-    "preco": 8015.36,
-    "categoria": "home_electronics"
+    "id": "628e9c3edc9e59495f2fe43c",
+    "preco": "5112.28",
+    "categoria": "storage_&_organisation"
   },
   {
-    "id": "628e98733f70198e7685f937",
-    "preco": 9273.91,
+    "id": "628e9c3e9baa1ad1a331b385",
+    "preco": "9381.50",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e9873001ff044db736fe9",
-    "preco": 8716.15,
-    "categoria": "home_electronics"
+    "id": "628e9c3e4409af796e1f5751",
+    "preco": "6308.37",
+    "categoria": "bathroom_products"
   },
   {
-    "id": "628e9873b04be2af38f3484e",
-    "preco": 6947.02,
+    "id": "628e9c3e425b5bd6d9931541",
+    "preco": "7674.79",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e104a9b73d9b65b87",
+    "preco": "7937.10",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e2cff1512c20acfb0",
+    "preco": "9570.58",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e83068b40f08adf8d",
+    "preco": "7034.07",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3ec4a8bbedce59adc7",
+    "preco": "9681.63",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3ec54e5dcbe9e6f710",
+    "preco": "5487.77",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e285870ec03454251",
+    "preco": "9682.05",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e9453bf5224cc5e30",
+    "preco": "8772.81",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e6d5b5e51a1dd370e",
+    "preco": "6617.65",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e7338a80c30189d8e",
+    "preco": "7609.82",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3eab71b2e0081e3934",
+    "preco": "5278.22",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e740919270cd097c2",
+    "preco": "5168.02",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e1495ffe4e493ae67",
+    "preco": "5991.31",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eeab35fec559298a8",
+    "preco": "9740.75",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e891be3e8c4728090",
+    "preco": "6602.31",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e654c4d4365de8961",
+    "preco": "6333.52",
     "categoria": "food_&_beverages"
   },
   {
-    "id": "628e9873c02ca2aaa001279a",
-    "preco": 6559.21,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873d37d19a6169ce092",
-    "preco": 9784.38,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987370fac37cd3a3666f",
-    "preco": 9111.34,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873627fcaa84be54ef3",
-    "preco": 9349.5,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873dcdbeb481d3aa19c",
-    "preco": 9906.95,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98739cfe8933b11586ea",
-    "preco": 8931.23,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873bdabc75fece24b5f",
-    "preco": 6994.11,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98739577c7a6033f2c7e",
-    "preco": 7276.6,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873b49f365f08ee8e67",
-    "preco": 7483.3,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987350b3527ed523c584",
-    "preco": 5696.97,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987329dc2d1588c47eee",
-    "preco": 9812.14,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987372f1ec005e2bafa6",
-    "preco": 5178.91,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873dd4c908836ee9437",
-    "preco": 8447.35,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987307289471b1703581",
-    "preco": 6010.93,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98734450df6ee2b575fd",
-    "preco": 7810.85,
+    "id": "628e9c3ea630c79d326ac364",
+    "preco": "5037.38",
     "categoria": "home_electronics"
   },
   {
-    "id": "628e987353d68c8d43cb8b92",
-    "preco": 9356.32,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873946f4fc30a92d552",
-    "preco": 8810.24,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873353dc9406c16a066",
-    "preco": 6179.84,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873de6313cb427f9bf2",
-    "preco": 8432.73,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873c22e900868ad2cb7",
-    "preco": 5885.66,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987396ec8b5773739439",
-    "preco": 7476.58,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987314eb9ddd06743b28",
-    "preco": 9943.26,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873b05f2236c542e6a3",
-    "preco": 8007.19,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873be4c7d25a2f168ce",
-    "preco": 6570.03,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e98730aea53fd57574ab5",
-    "preco": 9445.11,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873c39425972faf8b51",
-    "preco": 6761.27,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98733257d1588e81300b",
-    "preco": 8632.6,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e987321116732706914de",
-    "preco": 6177.06,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873748e72fa2c48d5ad",
-    "preco": 9112.59,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873a3b1895a18957883",
-    "preco": 7805.26,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873805d43229a517886",
-    "preco": 7208.07,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98731cf700af323061b4",
-    "preco": 8948.04,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e98737288f0f6718c6ec6",
-    "preco": 8347.38,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e98732498b55d97d93abb",
-    "preco": 8939.27,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e98735cd589874fef98a6",
-    "preco": 7958.44,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98735e7723450e6c7a4a",
-    "preco": 7660.56,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987344ec577547e6d683",
-    "preco": 7981.84,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873ad0acfef94d6b226",
-    "preco": 9447.02,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873983f2e8c31114d62",
-    "preco": 7903.33,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e98730e281fd7e6edb6b8",
-    "preco": 7929.68,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e987373535919e768e063",
-    "preco": 5018.29,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873a7efce50df828c7c",
-    "preco": 5955.2,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873bd3cabd7e29d4d22",
-    "preco": 9466.57,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98738e8e5494c5caf7ab",
-    "preco": 8051.63,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98733c0b42ffaf889da0",
-    "preco": 8405.54,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873f45a5d2c2e6a4da4",
-    "preco": 5505.88,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873c77d17d3800fc24d",
-    "preco": 5654.86,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873a7dc4251556613d2",
-    "preco": 8799.84,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873f56439f270553b77",
-    "preco": 8107.31,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98731e6f52b995dcd75c",
-    "preco": 6559.28,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873413bae7d7b024cbb",
-    "preco": 5293.21,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873303a083d15e720d6",
-    "preco": 7584.86,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e987394df52782fb24410",
-    "preco": 7067.25,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987380cdd28ceb5c9e39",
-    "preco": 5677.94,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873263ce39424eac245",
-    "preco": 6340.4,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873c2c8464ed0b9a90b",
-    "preco": 8829.63,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987371d73b17efa18bde",
-    "preco": 7178.18,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873689766907d4127ed",
-    "preco": 7388.98,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873d3b85cedc7ec9242",
-    "preco": 5473.69,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873c0fe9b311f2f43f6",
-    "preco": 6902.44,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873107234da0c631534",
-    "preco": 9818.41,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873d359ec334e79eb12",
-    "preco": 9375.31,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e98737cb5dfe76ab36465",
-    "preco": 5552.73,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e98737b44072143a793ae",
-    "preco": 9621.79,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873f64170449a5ef180",
-    "preco": 6999.09,
+    "id": "628e9c3e5d5cf7813a476b56",
+    "preco": "7165.88",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873b1268e17614f63ef",
-    "preco": 9103.6,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e987342e246301b056250",
-    "preco": 5654.91,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98734d3c0c96c0913cff",
-    "preco": 8995.25,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873ab7eb571df31dd18",
-    "preco": 5756.73,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873b81ead2fb7b63bcf",
-    "preco": 6256.01,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98736a3ff6e6e60f3695",
-    "preco": 9410.16,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873c8011a5db8623efb",
-    "preco": 5298.56,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873682afb2643191aaf",
-    "preco": 6261.82,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873e592c37176924bc7",
-    "preco": 6132.91,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e98730daff90d444a14b7",
-    "preco": 6719.09,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e98732ead3738c6c9f4cb",
-    "preco": 5730.84,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873bb6e5fbe296861bb",
-    "preco": 8998.27,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e98732d9482abf4727a29",
-    "preco": 9180.21,
+    "id": "628e9c3e087895e1cb862cf5",
+    "preco": "6005.90",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e9873c2c9af1d864cb53d",
-    "preco": 9553.2,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873f7f21548889972d5",
-    "preco": 6794.38,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e98732f1dde70022fc4e9",
-    "preco": 5109.92,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e987384feb343e845ea44",
-    "preco": 9515.47,
-    "categoria": "furniture"
-  },
-  {
-    "id": "628e9873871692b04725abd1",
-    "preco": 5688.03,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873f9d7a676a424bb9b",
-    "preco": 9799.33,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873d227320839db2cd3",
-    "preco": 5607.98,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873560277194f7c07ef",
-    "preco": 6588.84,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873308e60d598847404",
-    "preco": 9621.93,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873ccba5abfb54641b1",
-    "preco": 8128.39,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e98732555489c57dd2ccb",
-    "preco": 7059.79,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98732105deb1917c3d47",
-    "preco": 5868.89,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873b1ce949d4afe58bf",
-    "preco": 6604.99,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98732bfc59f7c291d683",
-    "preco": 6868.98,
-    "categoria": "furniture"
-  },
-  {
-    "id": "628e98738151a75d4a6b6647",
-    "preco": 7974.11,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e987326feda5b75685201",
-    "preco": 6567.04,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e98738851c12562765ec7",
-    "preco": 7665.31,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987357adcd21f35b87cf",
-    "preco": 9430.5,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e987315a42d0752db201e",
-    "preco": 5983.93,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e98731ce45a8ed9740313",
-    "preco": 6499.98,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873e3ecab969dfffd22",
-    "preco": 9435.98,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987369dfa2676f44be62",
-    "preco": 5917.09,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98737e18bc54acf6dd41",
-    "preco": 6346.7,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873c54d047fd733965c",
-    "preco": 9596.59,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987362fe3f80b9774025",
-    "preco": 9766.97,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873484a0b599ffb17ca",
-    "preco": 8860.14,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873e2407c568e1c93d1",
-    "preco": 9883.85,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873b05192bb199a77c7",
-    "preco": 5016.76,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98731f5334240dfbe938",
-    "preco": 7001.96,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987337c06939b5d7c9d7",
-    "preco": 7321.38,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e98737386b247435cd5b4",
-    "preco": 5123.12,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873e09b7aafd7fb2e64",
-    "preco": 7885.83,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98734c7d530256139451",
-    "preco": 9841.89,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e987365dba13a8e13da0e",
-    "preco": 9089.26,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987371156da770deaa0d",
-    "preco": 9185.31,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e987331d8cb38186d1baa",
-    "preco": 9580.37,
+    "id": "628e9c3efa62aa5885bb1687",
+    "preco": "6956.48",
     "categoria": "home_electronics"
   },
   {
-    "id": "628e987356f8b6cc670f5466",
-    "preco": 8932,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987306f5c85e0e606c71",
-    "preco": 7436.63,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873a3b7b504025219ce",
-    "preco": 7711.15,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e98730101ff3dbe2b1943",
-    "preco": 6990.77,
+    "id": "628e9c3e3db785b7813dbaa8",
+    "preco": "7812.42",
     "categoria": "working_from_home"
   },
   {
-    "id": "628e9873d815d0464109fbc4",
-    "preco": 6367.15,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987309ba7d53a778a1dc",
-    "preco": 9836.91,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98737910ec38d0c3a235",
-    "preco": 5268.06,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987360fdf1657e51ca2b",
-    "preco": 8022.97,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987352d04499c233805f",
-    "preco": 9660.19,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873d8c3a50675015344",
-    "preco": 8623.76,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987377057d0f9ee31d52",
-    "preco": 9729.25,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873f98c3c170bf0bfc2",
-    "preco": 6796.93,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873e93f39c4da6d7b56",
-    "preco": 7905.49,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987337b3ac0592099991",
-    "preco": 7524.06,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e987312c070fd0afbc509",
-    "preco": 9663.64,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98735100499a3bc87e05",
-    "preco": 8174.38,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873e722595eb38da803",
-    "preco": 7496.61,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873719894b9c2610ed8",
-    "preco": 6422,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873b47542e7d50b5528",
-    "preco": 8917.98,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987303e9b0fc789b35ac",
-    "preco": 9635.12,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e987376baf468350b0d4e",
-    "preco": 8244.56,
-    "categoria": "furniture"
-  },
-  {
-    "id": "628e9873a0e0a44f11fd2e42",
-    "preco": 7823.56,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e98734e6380ed940dfbbe",
-    "preco": 6831.62,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e98736b1a280a8c1406ac",
-    "preco": 9736.17,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e98730d8694b1ee39241d",
-    "preco": 8927.27,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873c39d4a558ccf2ee8",
-    "preco": 7727.2,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873d76c10bdd613df43",
-    "preco": 6438.56,
-    "categoria": "textiles"
-  },
-  {
-    "id": "628e9873a188aada9087de04",
-    "preco": 8485.17,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873e5a737327ef03b11",
-    "preco": 8892.38,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e98738486c2341596a084",
-    "preco": 8570.76,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873fccbba3221c3b23f",
-    "preco": 9667.68,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873117091b0fb1afaef",
-    "preco": 9031.55,
+    "id": "628e9c3e98dab2c1516fb97d",
+    "preco": "7522.31",
     "categoria": "home_improvement"
   },
   {
-    "id": "628e98731b6fc98fea4275b3",
-    "preco": 7140.55,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98731dbe224150d5c52f",
-    "preco": 8254.06,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873bcd06914a3b232d8",
-    "preco": 6819.75,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e98731cf73ccdd29b8f56",
-    "preco": 6593.39,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e9873a5c26594244b3a26",
-    "preco": 7045.19,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e9873fcef62dbdfe5b166",
-    "preco": 6872.12,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873e2dcec84c1bc996c",
-    "preco": 6618.41,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987352edb729e02a8f0f",
-    "preco": 6805.29,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873ae086be61fbcf04c",
-    "preco": 5414.16,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873984b2591e9c71a52",
-    "preco": 6406.56,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e98730bfb6c844c9fe230",
-    "preco": 5304.6,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e9873b5d17aa1ace20eea",
-    "preco": 6258.1,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e9873175e5645bf2dd146",
-    "preco": 7740.62,
+    "id": "628e9c3eabedc3f189a60ce5",
+    "preco": "8503.27",
     "categoria": "lighting"
   },
   {
-    "id": "628e9873c1a79fcd84fb17bd",
-    "preco": 5548.29,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873d8b4faa7d1c8534e",
-    "preco": 7292.07,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e987364bac603797115ee",
-    "preco": 9154.55,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e987373fa80ed426e8d2a",
-    "preco": 9407.03,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873df36654c9a9f9394",
-    "preco": 7011.25,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873d7517da504b71844",
-    "preco": 9177.48,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98730b672b3d399e152a",
-    "preco": 5591.02,
-    "categoria": "storage_&_organisation"
-  },
-  {
-    "id": "628e9873813f09dc958df73f",
-    "preco": 6075.74,
+    "id": "628e9c3e0ebb8f8b2061dfc6",
+    "preco": "7451.96",
     "categoria": "home_smart"
   },
   {
-    "id": "628e9873b18e3358d11ee048",
-    "preco": 6732.72,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873d84a27412aa0e40b",
-    "preco": 5747.15,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e98736cfe99cc2e292a10",
-    "preco": 5974.59,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873adbe2b2e758a5b74",
-    "preco": 5634.05,
-    "categoria": "food_&_beverages"
-  },
-  {
-    "id": "628e9873d5ba246551856e50",
-    "preco": 7828.73,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e9873c8af7dd01b0f0f97",
-    "preco": 7694.86,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e98739178faa22b1e2f36",
-    "preco": 9233.35,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e987307cc9c8dd1aed5c3",
-    "preco": 6574.73,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e98736dbe7654cd34c469",
-    "preco": 8836.26,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873dea2b90db555d3b6",
-    "preco": 7953.51,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873e6bff2271ec91fc7",
-    "preco": 8734.02,
+    "id": "628e9c3eb3245ac03b65f3ed",
+    "preco": "8372.59",
     "categoria": "furniture"
   },
   {
-    "id": "628e9873d4b62fb5295d070c",
-    "preco": 7740.88,
+    "id": "628e9c3edbb2551243880c07",
+    "preco": "7493.44",
     "categoria": "baby_&_children"
   },
   {
-    "id": "628e9873008a260437cd0a7e",
-    "preco": 8988.45,
-    "categoria": "decoration"
+    "id": "628e9c3ea447cabac5522bd7",
+    "preco": "5682.98",
+    "categoria": "rugs_mats_&_flooring"
   },
   {
-    "id": "628e98732b6c9115ee3b2491",
-    "preco": 5870.02,
-    "categoria": "home_smart"
+    "id": "628e9c3e32c05a85bf07f124",
+    "preco": "6071.74",
+    "categoria": "working_from_home"
   },
   {
-    "id": "628e9873981f04f8ba550490",
-    "preco": 7157.72,
-    "categoria": "beds_&_mattresses"
+    "id": "628e9c3e9632c572ce206d7b",
+    "preco": "7801.05",
+    "categoria": "baby_&_children"
   },
   {
-    "id": "628e987370d791cb5eedd120",
-    "preco": 6189.45,
+    "id": "628e9c3ec2653afac5d512b8",
+    "preco": "9612.25",
     "categoria": "storage_&_organisation"
   },
   {
-    "id": "628e9873b4972e3fc84c9589",
-    "preco": 9879,
+    "id": "628e9c3e23ed40e67cb76395",
+    "preco": "8888.81",
     "categoria": "home_improvement"
   },
   {
-    "id": "628e9873f74d5413d2a2bb64",
-    "preco": 9591.89,
+    "id": "628e9c3e2fe800589592481a",
+    "preco": "8377.47",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e061c1d1cc4bd1272",
+    "preco": "8701.68",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3ec919bb25d2381955",
+    "preco": "9564.07",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e962b57409fe9172c",
+    "preco": "9384.87",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e423dff7642979cb8",
+    "preco": "7690.00",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e47d5aca97fc6a59f",
+    "preco": "7220.54",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e311cba2d63eb6993",
+    "preco": "9860.16",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e224b8c05ca5eb62d",
+    "preco": "6469.31",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e29e542ea8fecae99",
+    "preco": "9667.57",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e41b5c38e05cc494c",
+    "preco": "9256.44",
     "categoria": "cookware_&_tableware"
   },
   {
-    "id": "628e9873b538a5fe64b7bfd7",
-    "preco": 5088.12,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e987367b3093669492290",
-    "preco": 6733.35,
-    "categoria": "beds_&_mattresses"
-  },
-  {
-    "id": "628e987304cdbd667d1da2c5",
-    "preco": 8231.74,
+    "id": "628e9c3ec5a1a2f1e181642b",
+    "preco": "7511.36",
     "categoria": "lighting"
   },
   {
-    "id": "628e9873f0d0f3e250e4c487",
-    "preco": 9651.13,
-    "categoria": "home_smart"
+    "id": "628e9c3ef53ca50b6eafb42d",
+    "preco": "7256.59",
+    "categoria": "kitchens"
   },
   {
-    "id": "628e98733ddd2dd82334940a",
-    "preco": 9121.41,
+    "id": "628e9c3e425a1bd9025020d2",
+    "preco": "5012.25",
     "categoria": "textiles"
   },
   {
-    "id": "628e98736fe41df6d2bc5946",
-    "preco": 6310.66,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873be518cf8fd19d919",
-    "preco": 5884.93,
-    "categoria": "outdoor_living"
-  },
-  {
-    "id": "628e9873b21335f2ccf31326",
-    "preco": 5270.42,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873d1b4470f9e8e982d",
-    "preco": 9896.89,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e9873df157b376ef23720",
-    "preco": 7359.59,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e987369171a685f2539f2",
-    "preco": 7191.93,
-    "categoria": "working_from_home"
-  },
-  {
-    "id": "628e987390a641c2c788a2cc",
-    "preco": 5689.45,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e987375c983436316f0fa",
-    "preco": 5046.78,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e987351d30f9b72b62dc6",
-    "preco": 6113.7,
+    "id": "628e9c3efb4ad8fc2309fdf1",
+    "preco": "7117.82",
     "categoria": "food_&_beverages"
   },
   {
-    "id": "628e98735369bbff056fb04a",
-    "preco": 6065.08,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e987395fde6ea0115912c",
-    "preco": 8738.13,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873159760358e1f00a7",
-    "preco": 7006.64,
-    "categoria": "cookware_&_tableware"
-  },
-  {
-    "id": "628e9873033dc82794ce10b5",
-    "preco": 6540.97,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987308243895546e2e7b",
-    "preco": 9769.67,
-    "categoria": "kitchens"
-  },
-  {
-    "id": "628e9873603795462ee3ee5b",
-    "preco": 8034.66,
-    "categoria": "home_improvement"
-  },
-  {
-    "id": "628e9873c246680534310e60",
-    "preco": 6061.41,
-    "categoria": "laundry_&_cleaning"
-  },
-  {
-    "id": "628e98735a51d92263857a15",
-    "preco": 7573.33,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e9873ed0ca736070fe1e2",
-    "preco": 9179.78,
-    "categoria": "rugs_mats_&_flooring"
-  },
-  {
-    "id": "628e9873568ede3532837f0e",
-    "preco": 8587.84,
-    "categoria": "bathroom_products"
-  },
-  {
-    "id": "628e987340a6643696b8eb1a",
-    "preco": 7171.04,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e9873d933e47348e18df6",
-    "preco": 5912.58,
-    "categoria": "furniture"
-  },
-  {
-    "id": "628e98734f8a04c23f015fb1",
-    "preco": 8812.01,
-    "categoria": "plants_&_plant_pots"
-  },
-  {
-    "id": "628e9873f5addf108c2cad83",
-    "preco": 8320.06,
-    "categoria": "lighting"
-  },
-  {
-    "id": "628e9873237b43baded76a63",
-    "preco": 7762.53,
-    "categoria": "home_electronics"
-  },
-  {
-    "id": "628e987379adc13bbce81466",
-    "preco": 6689.92,
-    "categoria": "decoration"
-  },
-  {
-    "id": "628e987360c75e69f7d63d77",
-    "preco": 8577.72,
-    "categoria": "home_smart"
-  },
-  {
-    "id": "628e98736773cc3d341eb9a8",
-    "preco": 9728.15,
-    "categoria": "baby_&_children"
-  },
-  {
-    "id": "628e98735bb6a01c38117df4",
-    "preco": 7664.21,
+    "id": "628e9c3e89bf0416de640ac8",
+    "preco": "9940.31",
     "categoria": "beds_&_mattresses"
   },
   {
-    "id": "628e98736c87258d622452c0",
-    "preco": 6508.18,
+    "id": "628e9c3ed2e01f73f18be7de",
+    "preco": "5773.86",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e442f24cf460677f0",
+    "preco": "5067.73",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3ec21185b3f266d00a",
+    "preco": "7700.22",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ea38e1cd470e06863",
+    "preco": "6411.57",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e1beed0b8cb9079e6",
+    "preco": "8888.72",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3efd87c6c2f74e2301",
+    "preco": "5694.41",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e2d2f3a198313acd0",
+    "preco": "8855.18",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e0322849d5dd7c055",
+    "preco": "7948.01",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3ec4a6ab85b61e0c54",
+    "preco": "9662.59",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ebaf0d79ac1d4f14d",
+    "preco": "8062.25",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e2c2d29f273db14ad",
+    "preco": "8828.24",
     "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e4ab4b4c08b688e46",
+    "preco": "6261.96",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e214e6f4f2813f834",
+    "preco": "7918.80",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3ec94feb8d91737fc3",
+    "preco": "9312.84",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e0c1bae060d464304",
+    "preco": "7414.41",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ef3509d0a42ab31c6",
+    "preco": "6591.67",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e1f0191482a8fd0e1",
+    "preco": "8420.48",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e02c40850dc20a5df",
+    "preco": "8505.67",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e4c905d2f3bd5a4b7",
+    "preco": "9086.56",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e9720f0e0efcbf0d9",
+    "preco": "6832.53",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e4eab0c3c72adeafa",
+    "preco": "7211.60",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e9435b1f7053f94ba",
+    "preco": "8367.56",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e165f71fc6984f732",
+    "preco": "7631.40",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e9016e8108a72b72f",
+    "preco": "5398.24",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e08f73517db978d7d",
+    "preco": "8963.20",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e321025e3a03ce253",
+    "preco": "6202.56",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e835740bc6be452d7",
+    "preco": "5400.19",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e0e057268e722fe1e",
+    "preco": "6348.07",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e3c9fa56cbcbe155d",
+    "preco": "9293.52",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e7cf1c05ee3cf5a1b",
+    "preco": "5689.78",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e8f53694d529df654",
+    "preco": "5772.97",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e5254b13f45e875af",
+    "preco": "8378.55",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e158690e6c671a4c3",
+    "preco": "6083.75",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ed5fd6435f84dbbc9",
+    "preco": "5213.60",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e10910a0d2f24a81f",
+    "preco": "8184.82",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e7ae5986b45381117",
+    "preco": "5101.23",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3efb25367be343ca0b",
+    "preco": "6054.58",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e56d5ad20aa3e6641",
+    "preco": "7262.88",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3ec3a4c811ce54e0cc",
+    "preco": "9858.16",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e33426341f0581946",
+    "preco": "9136.24",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e383d12b14dc689d0",
+    "preco": "6690.50",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3eb551230aea1434db",
+    "preco": "8705.30",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ebd1f592b46aa756d",
+    "preco": "9988.90",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e1629ead15caa0f44",
+    "preco": "8313.15",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e6f875847035327ec",
+    "preco": "8388.89",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e364c865e1feb5d8a",
+    "preco": "6780.05",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e542ec593bda7cf0e",
+    "preco": "5188.67",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3edbc56e8a0a191b25",
+    "preco": "8579.94",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e68f4a612e8d69c6b",
+    "preco": "9992.73",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3eaab0b9e492221c5f",
+    "preco": "6422.32",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3ed6f1c17e4f6c846a",
+    "preco": "9826.84",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e6b20c81e77dd54aa",
+    "preco": "7881.84",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e709159245cb8cb90",
+    "preco": "6261.98",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e7c47a921f4368024",
+    "preco": "9817.24",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e15167f774675c1ed",
+    "preco": "8803.22",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e279ed22faec74266",
+    "preco": "7496.74",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3ed77bdac446ee7824",
+    "preco": "6596.67",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e9b51d8aefebd9515",
+    "preco": "8872.75",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ea7d787048a9a7777",
+    "preco": "8693.20",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e428b91d0a0282048",
+    "preco": "5585.92",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ea448459325b1610a",
+    "preco": "5135.40",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e4a0e0cdce93e4428",
+    "preco": "9522.48",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e77cf9b1be60f2c6f",
+    "preco": "8106.95",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3eaa1f14d84332bd47",
+    "preco": "6677.25",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e7b12746c959186e8",
+    "preco": "8949.27",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e5795f330849db7fa",
+    "preco": "5785.32",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e69565e50301947cd",
+    "preco": "8592.14",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e7a952ee165d22136",
+    "preco": "5556.79",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3eb60a655ccc298331",
+    "preco": "7087.61",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e11c9940ae2c42afb",
+    "preco": "9721.96",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e0728b20eb71ea929",
+    "preco": "9680.46",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e41d4a0f3aa696bd6",
+    "preco": "9364.06",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e0aa6f68d600ac858",
+    "preco": "5378.53",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3ecb2abf0ccd2d622c",
+    "preco": "6902.88",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e3e0640c3ba72921d",
+    "preco": "5253.16",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3ebb7005e7c803afa1",
+    "preco": "7461.53",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e906bb244d662e3b8",
+    "preco": "9153.54",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3eabc1f6556d36dc8f",
+    "preco": "5329.75",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3eda60884a841ee171",
+    "preco": "8915.40",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e2edb57205977fa35",
+    "preco": "5347.82",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ef5537ba6885de66b",
+    "preco": "7829.12",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e542539a0a00a13f1",
+    "preco": "8042.67",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e182cc5825960b86b",
+    "preco": "7222.77",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e13e6f896dbc5cf6e",
+    "preco": "8252.37",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e478d5642ac8889bd",
+    "preco": "7510.73",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e8e895c81e7bc4a19",
+    "preco": "9507.13",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ed16b5e2325a68c3d",
+    "preco": "5732.17",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ed72b350e62357135",
+    "preco": "9718.93",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e63aed2d3b2297487",
+    "preco": "8802.31",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e7e0252c37ea7c440",
+    "preco": "5039.21",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e1247e67035b4431a",
+    "preco": "8970.35",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e51ffa9512f0aa6b9",
+    "preco": "6450.09",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e798c43640fe8ade0",
+    "preco": "6179.51",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e3666b24439900911",
+    "preco": "9481.28",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e360a39d4dc0bf414",
+    "preco": "7885.99",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e60ca2705cd6444c2",
+    "preco": "8919.01",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3edd951f4d3d63da5b",
+    "preco": "9926.34",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e3d8fe8319cf82a14",
+    "preco": "8042.13",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ebb8fbe471dfb416b",
+    "preco": "7231.30",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3eda7e5fbe604d5aac",
+    "preco": "6884.73",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e10a4b1c5c18de52a",
+    "preco": "9629.62",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e1fe317473a3ab208",
+    "preco": "5839.63",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e44c5d7b56bd85091",
+    "preco": "6968.71",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e9b60765c0235bb2c",
+    "preco": "8421.74",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e21bcdc7420b2b854",
+    "preco": "5410.16",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3eefde01d39dc8c9fd",
+    "preco": "6993.17",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e6adb70292eb318bc",
+    "preco": "7859.17",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e61ee41a593f5121f",
+    "preco": "8604.39",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ed7bcada04980df63",
+    "preco": "5463.14",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e841938918808c9df",
+    "preco": "8434.54",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e01d106bcc8bff552",
+    "preco": "7495.88",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3eafdcf5e1f2797a07",
+    "preco": "6030.64",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ec9c9fb54c58bdeac",
+    "preco": "7718.11",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e8607a604001a519d",
+    "preco": "9259.15",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e3dd4e9fd2f823e18",
+    "preco": "7712.95",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ef52243efa6b745d0",
+    "preco": "9242.14",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3ec83652040db4b71f",
+    "preco": "8046.45",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ea18b58cd639a22bb",
+    "preco": "5092.42",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ee827c1a891558146",
+    "preco": "8349.24",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e085edd09652f58e7",
+    "preco": "9211.80",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ee9fed48bc4a30339",
+    "preco": "9760.45",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e46b52cfa05b0d8e1",
+    "preco": "7128.71",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ed25d22351e0c17b7",
+    "preco": "7886.19",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eed8e61d4e87c51f8",
+    "preco": "9012.86",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e6f9f91f308ae46ad",
+    "preco": "9896.67",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e8be14ad2b9d2c307",
+    "preco": "5990.56",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3ee740d51e3e5d4842",
+    "preco": "7457.15",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ea3c62a9918837683",
+    "preco": "6255.46",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e7fcd16a5c1dde2d8",
+    "preco": "5957.94",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eca9af1dbccd5aade",
+    "preco": "8781.47",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3ea1271ba5aedf8aab",
+    "preco": "5442.53",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3ed9fb31d2cd55b01e",
+    "preco": "6344.36",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e02468b83791bcf33",
+    "preco": "7346.89",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3e6cfac7ebdff70135",
+    "preco": "9438.07",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e6a00a1c8ab7c915b",
+    "preco": "9840.63",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e024a47b354f49089",
+    "preco": "7248.07",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e36bc1be05be8b51c",
+    "preco": "9283.74",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3eb46d565c5f9e8419",
+    "preco": "8643.88",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e59af8799387d4ab4",
+    "preco": "9797.59",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ebc06fbcc2b090fd3",
+    "preco": "9510.37",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e61fbb5360e35512e",
+    "preco": "6687.94",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3ed4ebcdd1b66451c5",
+    "preco": "8416.00",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e3819e8486871c963",
+    "preco": "7230.28",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3eb4fa7881c910d046",
+    "preco": "5020.33",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ea73da1fbf927ef4e",
+    "preco": "7048.53",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e4924609cb3e443fc",
+    "preco": "7193.20",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e8bf6c3c7694b2899",
+    "preco": "8937.75",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e70bd2515c911dd66",
+    "preco": "7440.19",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e5600b57c688b9125",
+    "preco": "6320.30",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e4f024e12a30b7f73",
+    "preco": "8882.16",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e9cdbc25449da1b23",
+    "preco": "6911.18",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e32ad9bb6b5e2b078",
+    "preco": "5133.55",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e5f19082fcda40741",
+    "preco": "8582.56",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e2c62e7940e18cdc0",
+    "preco": "8390.60",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3ee1dce8477f089d67",
+    "preco": "9602.14",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e2ed58e0c42656995",
+    "preco": "5891.03",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e8d82f1cec74f006f",
+    "preco": "9902.16",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e24c4e66129ddbbd5",
+    "preco": "7349.88",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e1b8a000d509622de",
+    "preco": "8069.04",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ed256546ecd6a11d8",
+    "preco": "5071.99",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ef0842ab4e1bfa407",
+    "preco": "5055.90",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ed1b990d04bcb9475",
+    "preco": "8678.80",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3ec41c772e2650dc88",
+    "preco": "6464.97",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e7388e99fb10298fb",
+    "preco": "8884.46",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3ef43a4791374875f2",
+    "preco": "6995.60",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e0b3f10975056f708",
+    "preco": "9646.52",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3ea28744051123df75",
+    "preco": "9999.10",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3eaaadc8ad22f8afa0",
+    "preco": "9678.96",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3ecc53e5ae14857b12",
+    "preco": "7611.09",
+    "categoria": "home_improvement"
+  },
+  {
+    "id": "628e9c3eb62b8a6342f2771f",
+    "preco": "5484.14",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e9baacb33527f03dd",
+    "preco": "9996.39",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e9f18f84027fd2a41",
+    "preco": "8885.01",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3ebe2b8f531c3c7439",
+    "preco": "6514.02",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3ea63120ed0ad5b057",
+    "preco": "9837.24",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e790e6e973202ddef",
+    "preco": "8603.88",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e995c2ea848a257f3",
+    "preco": "7092.69",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3eb6781477833ae213",
+    "preco": "6138.28",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3ef92e82c058f9aa8a",
+    "preco": "9223.97",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e0b027b9bcfe48d42",
+    "preco": "6577.47",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e06e6803a8a678a5d",
+    "preco": "8366.03",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e493121028d0fa660",
+    "preco": "6731.81",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ee5eb930749048d74",
+    "preco": "7506.94",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e2b114e6a25de018c",
+    "preco": "8286.63",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3eaffd8761943312da",
+    "preco": "8088.84",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e662a3382ddb9b263",
+    "preco": "7702.33",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3ef96ba0d7a04fb2be",
+    "preco": "5163.70",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3ee25926761a184e77",
+    "preco": "5290.53",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3eb255909a728c5133",
+    "preco": "5308.02",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3ee324695fd3a4cb6f",
+    "preco": "9866.94",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3e87f0ac8297bc95b4",
+    "preco": "8758.27",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e99e617e3b28603eb",
+    "preco": "7394.64",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e88b34e35791e9027",
+    "preco": "6664.71",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eb3cc041d4ef5c678",
+    "preco": "6064.23",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e2f7801a279b2f399",
+    "preco": "9813.20",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e994f3546af10f6f1",
+    "preco": "6720.74",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e73af97f81f5567b3",
+    "preco": "7174.38",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e82fce59d8601c86e",
+    "preco": "7674.90",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e1a994242e5726d21",
+    "preco": "9859.58",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e20bc5469a90b0533",
+    "preco": "6273.64",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e6ce6894fd373ebf9",
+    "preco": "8546.06",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3efd4e3950e8bc0d62",
+    "preco": "8933.07",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e6769a0f6a6aacdea",
+    "preco": "5612.61",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e1d64c53abbe4fbe2",
+    "preco": "6304.41",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e6409b7bf51e49939",
+    "preco": "5371.58",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e197079ef6a152eab",
+    "preco": "9332.74",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3ec6cb68bdf398b611",
+    "preco": "5402.16",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3ebf2b84dda3145d19",
+    "preco": "7524.93",
+    "categoria": "kitchens"
+  },
+  {
+    "id": "628e9c3e09816358cf4fd222",
+    "preco": "7831.39",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ec64178a445349218",
+    "preco": "6608.93",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e30dc4503a6bfbbad",
+    "preco": "8916.10",
+    "categoria": "beds_&_mattresses"
+  },
+  {
+    "id": "628e9c3e053af26ce507c53d",
+    "preco": "9142.65",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e04f45c299cc4f2ca",
+    "preco": "6671.22",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3eebb16cdf9aca3dd0",
+    "preco": "6762.57",
+    "categoria": "home_electronics"
+  },
+  {
+    "id": "628e9c3ee2ad774f42ea7a5a",
+    "preco": "9033.37",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3ef01258c6d3175c65",
+    "preco": "7127.71",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e8478e39d28903881",
+    "preco": "8796.47",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3ed0635806e63210ef",
+    "preco": "5827.86",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e08ee982aa6d3a19a",
+    "preco": "7619.48",
+    "categoria": "home_smart"
+  },
+  {
+    "id": "628e9c3e88734eb9920a60c5",
+    "preco": "8199.69",
+    "categoria": "textiles"
+  },
+  {
+    "id": "628e9c3e80ce06d88765e866",
+    "preco": "6381.22",
+    "categoria": "outdoor_living"
+  },
+  {
+    "id": "628e9c3e20f7347dd9b05d4b",
+    "preco": "9401.33",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3eafb3379f2d82090d",
+    "preco": "6997.46",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3ea5d9df96ccd23929",
+    "preco": "9601.23",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e6d982f95f014c64b",
+    "preco": "6801.47",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e218f1c13ce06d2da",
+    "preco": "6356.78",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e7240f482c0daa70d",
+    "preco": "9814.17",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3ea6a4af3b659c994c",
+    "preco": "6171.74",
+    "categoria": "cookware_&_tableware"
+  },
+  {
+    "id": "628e9c3e8f1b7cfec5416833",
+    "preco": "5152.26",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e421deaf7b5fed171",
+    "preco": "5757.05",
+    "categoria": "laundry_&_cleaning"
+  },
+  {
+    "id": "628e9c3e40f68a73bad8bd90",
+    "preco": "7275.07",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e2c4b868ccc067bec",
+    "preco": "9149.56",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e03d233ab8bde968b",
+    "preco": "8850.24",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3e651dfe62cdf232a6",
+    "preco": "8087.02",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e6075e74c3fa7c88f",
+    "preco": "9777.87",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e771634d45f7a99f9",
+    "preco": "8072.89",
+    "categoria": "working_from_home"
+  },
+  {
+    "id": "628e9c3e705cd1ea6d121950",
+    "preco": "5058.66",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e55b73616d50a6aea",
+    "preco": "8299.09",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3eb73383dc0b1874ab",
+    "preco": "8903.76",
+    "categoria": "decoration"
+  },
+  {
+    "id": "628e9c3e74dcd0c8dd182c42",
+    "preco": "6195.00",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e923f3a19303453ef",
+    "preco": "9845.29",
+    "categoria": "storage_&_organisation"
+  },
+  {
+    "id": "628e9c3e18e6e1e74859a3e2",
+    "preco": "9561.17",
+    "categoria": "food_&_beverages"
+  },
+  {
+    "id": "628e9c3e4c263cbe0d39cfe2",
+    "preco": "5584.24",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3e30d49e66dc6090ee",
+    "preco": "6943.78",
+    "categoria": "rugs_mats_&_flooring"
+  },
+  {
+    "id": "628e9c3e3dbfae73d760df2f",
+    "preco": "9328.57",
+    "categoria": "bathroom_products"
+  },
+  {
+    "id": "628e9c3e85279b1e53cd67d3",
+    "preco": "6500.35",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e835e58276e9e4d8f",
+    "preco": "8734.16",
+    "categoria": "lighting"
+  },
+  {
+    "id": "628e9c3eb7347c22fc970696",
+    "preco": "6504.23",
+    "categoria": "furniture"
+  },
+  {
+    "id": "628e9c3eee803d1ef59dc4c9",
+    "preco": "7640.24",
+    "categoria": "plants_&_plant_pots"
+  },
+  {
+    "id": "628e9c3e0a0bd903c1817bf9",
+    "preco": "5922.36",
+    "categoria": "baby_&_children"
+  },
+  {
+    "id": "628e9c3e406df09da1761622",
+    "preco": "6674.19",
+    "categoria": "cookware_&_tableware"
   }
 ]
