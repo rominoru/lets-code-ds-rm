@@ -67,7 +67,7 @@ def validar_opcao(opcao, texto_menu):
 
 def validar_categoria(categoria, dados):
     mensagem_invalido = '----------------------------------------\nCategoria inválida.\nInforme corretamente a categoria:'
-    while categoria.lower() not in sorted(listar_categorias(dados)):
+    while categoria.lower() not in listar_categorias(dados):
         categoria = input(mensagem_invalido)        
     return categoria.lower()
 
