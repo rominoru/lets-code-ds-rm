@@ -18,10 +18,7 @@ def listar_categorias(dados):
     Essa função deverá retornar uma lista contendo todas as categorias dos diferentes produtos.
     Cuidado para não retornar categorias repetidas.    
     '''
-    lista_categorias = []
-    for elemento in dados:
-        if elemento['categoria'] not in lista_categorias: lista_categorias.append(elemento['categoria'])
-    return lista_categorias
+    return list({elemento['categoria'] for elemento in dados})
 
 def listar_por_categoria(dados, categoria):
     '''
@@ -29,10 +26,7 @@ def listar_por_categoria(dados, categoria):
     O parâmetro "categoria" é uma string contendo o nome de uma categoria.
     Essa função deverá retornar uma lista contendo todos os produtos pertencentes à categoria dada.
     '''
-    lista_produtos = []
-    for elemento in dados:
-        if elemento['categoria'] == categoria: lista_produtos.append(elemento)
-    return lista_produtos
+    return [elemento for elemento in dados if elemento['categoria'] == categoria]
 
 def produto_mais_caro(dados, categoria):
     '''
@@ -40,47 +34,15 @@ def produto_mais_caro(dados, categoria):
     O parâmetro "categoria" é uma string contendo o nome de uma categoria.
     Essa função deverá retornar um dicionário representando o produto mais caro da categoria dada.
     '''
-
-    lista_categoria = []
-    for elemento in dados:
-        if elemento['categoria'] == categoria: lista_categoria.append(elemento)
-    return (sorted(lista_categoria, key = lambda x: [float(x['preco'])], reverse = True))[0]
-
-    # list comprehension não foi passado em aula:
-    # lista_categoria = [elemento for elemento in dados if elemento['categoria'] == categoria]
-    # return (sorted(lista_categoria, key = lambda x: [float(x['preco'])], reverse = True))[0]
-
-    # solução mais manual
-    # preco_mais_alto = float('-inf')
-    # produto_mais_caro = {}
-    # for elemento in dados:
-    #     if elemento['categoria'] == categoria and float(elemento['preco']) > float(preco_mais_alto):
-    #         preco_mais_alto, produto_mais_caro = elemento['preco'], elemento
-    # return produto_mais_caro
-
+    return (sorted(listar_por_categoria(dados, categoria), key = lambda x: [float(x['preco'])], reverse = True))[0]
+    
 def produto_mais_barato(dados, categoria):
     '''
     O parâmetro "dados" deve ser uma lista de dicionários representando os produtos.
     O parâmetro "categoria" é uma string contendo o nome de uma categoria.
     Essa função deverá retornar um dicionário representando o produto mais caro da categoria dada.
     '''
-    
-    lista_categoria = []
-    for elemento in dados:
-        if elemento['categoria'] == categoria: lista_categoria.append(elemento)
-    return (sorted(lista_categoria, key = lambda x: [float(x['preco'])]))[0]
-
-    # list comprehension não foi passado em aula:
-    # lista_categoria = [elemento for elemento in dados if elemento['categoria'] == categoria]
-    # return (sorted(lista_categoria, key = lambda x: [float(x['preco'])]))[0]
-
-    # solução mais manual
-    # preco_mais_baixo = float('inf')
-    # produto_mais_barato = {}
-    # for elemento in dados:
-    #     if elemento['categoria'] == categoria and float(elemento['preco']) < float(preco_mais_baixo):
-    #         preco_mais_baixo, produto_mais_barato = elemento['preco'], elemento
-    # return produto_mais_barato
+    return (sorted(listar_por_categoria(dados, categoria), key = lambda x: [float(x['preco'])]))[0]
 
 def top_10_caros(dados):
     '''
@@ -97,61 +59,81 @@ def top_10_baratos(dados):
     return sorted(dados, key = lambda x: [float(x['preco'])])[:10]
 
 def validar_opcao(opcao, texto_menu):
+    mensagem_invalido = '\n----------------------------------------\nOpção Inválida!\n'
     opcoes = ['0', '1', '2', '3', '4', '5', '6']
     while opcao not in opcoes:
-        opcao = input(f'\nOpção Inválida!\nEscolha uma opção corretamente:\n{texto_menu}\nOpção: ')
+        opcao = input(f'{mensagem_invalido}Escolha corretamente uma opção:\n{texto_menu}\nOpção: ')
     return opcao
 
 def validar_categoria(categoria, dados):
-    while categoria.lower() not in sorted(listar_categorias(dados)): #DÚVIDA, ativar função dentro da função
-        categoria = input('Categoria inválida.\nInforme corretamente a categoria:')        
+    mensagem_invalido = '----------------------------------------\nCategoria inválida.\nInforme corretamente a categoria:'
+    while categoria.lower() not in sorted(listar_categorias(dados)):
+        categoria = input(mensagem_invalido)        
     return categoria.lower()
 
-def print_lista_categorias(categorias: list) -> None:
-    '''
-    Imprime as categorias de uma lista de categorias.
-    '''
-    contador = 1
-    for categoria in categorias:
-        print(f'{contador}. {categoria.upper()}')
-        contador += 1
+def resultado(dados, opcao, categoria) -> str:
+    '''Gera a saída em formato string a ser impressa em função da opção e categoria definidas no menu.
+    Nas funções 2, 3 e 4, são informados id e preco, contextualmente fica reduntante informar a categoria do produto.
+    Nas funções 5 e 6, são informados id, preco e categoria.'''
+    titulos = {
+        '1': '\nLista de categorias:\n',
+        '2': '\nLista de produtos da categoria ',
+        '3': '\nProduto mais caro da categoria ',
+        '4': '\nProduto mais barato da categoria ',
+        '5': '\nTop 10 produtos mais caros:',
+        '6': '\nTop 10 produtos mais baratos:'
+    }
+    resultado = titulos[opcao]
+    
+    if opcao == '1':
+        contador = 1
+        for item in sorted(listar_categorias(dados)):
+            resultado += str(contador) + '. ' + item.upper() + '\n'
+            contador += 1
+        return resultado
+    
+    elif opcao == '2':
+        resultado += categoria.upper() + ':'
+        contador = 1
+        for produto in listar_por_categoria(dados, categoria):
+            resultado += '\n' + str(contador) + '.\n'
+            for chave, valor in produto.items():
+                if chave != 'categoria':
+                    resultado += chave + ': ' + valor.upper() + '\n'
+            contador += 1
+        return resultado
 
-def print_lista_produto(produtos: list) -> None:
-    '''
-    Imprime id, preco e categoria de uma lista de produtos.
-    '''
-    contador = 1
-    for produto in produtos:
-        print(f'{contador}.')
-        for chave, valor in produto.items():
-            print(f'{chave}: {valor.upper()}')
-        print()
-        contador += 1
-
-def print_lista_sem_cat(produtos: list) -> None:
-    '''
-    Imprime id e preco de uma lista de produtos. Não imprime a categoria.
-    Utilizar quando for redundante informar a categoria.
-    '''
-    contador = 1
-    for produto in produtos:
-        print(f'{contador}.')
-        # print_produto_sem_cat(produto)
-        for chave, valor in produto.items():
+    elif opcao == '3':
+        resultado += categoria.upper() + ':\n'
+        for chave, valor in produto_mais_caro(dados, categoria).items():
             if chave != 'categoria':
-                print(f'{chave}: {valor}')
-        print()
-        contador += 1    
+                resultado += chave + ': ' + valor.upper() + '\n'                
+        return resultado
 
-def print_produto_sem_cat(produto: dict) -> None:
-    '''
-    Imprime id e preco de determinado produto. Não imprime a categoria.
-    Utilizar quando for redundante informar a categoria.
-    '''
-    for chave, valor in produto.items():
-        if chave != 'categoria':
-            print(f'{chave}: {valor}')
-    print()
+    elif opcao == '4':
+        resultado += categoria.upper() + ':\n'
+        for chave, valor in produto_mais_barato(dados, categoria).items():
+            if chave != 'categoria':
+                resultado += chave + ': ' + valor.upper() + '\n'                
+        return resultado
+
+    elif opcao == '5':
+        contador = 1
+        for produto in top_10_caros(dados):
+            resultado += '\n' + str(contador) + '.\n'
+            for chave, valor in produto.items():
+                resultado += chave + ': ' + valor.upper() + '\n'
+            contador += 1
+        return resultado
+
+    elif opcao == '6':
+        contador = 1
+        for produto in top_10_baratos(dados):
+            resultado += '\n' + str(contador) + '.\n'
+            for chave, valor in produto.items():
+                resultado += chave + ': ' + valor.upper() + '\n'
+            contador += 1
+        return resultado
 
 def menu(dados):
     '''
@@ -172,42 +154,28 @@ def menu(dados):
     - Imprimir o retorno salvo. 
     O loop encerra quando a opção do usuário for 0.
     '''
-    
-    texto_menu = '''1. Listar categorias
+    mensagem_escolha = '\n----------------------------------------\nEscolha uma opção:\n'
+    texto_menu = '''----------------------------------------
+1. Listar categorias
 2. Listar produtos de uma categoria
 3. Produto mais caro por categoria
 4. Produto mais barato por categoria
 5. Top 10 produtos mais caros
 6. Top 10 produtos mais baratos
-0. Sair'''    
+0. Sair
+----------------------------------------'''    
 
-    opcao = input(f'\nEscolha uma opção:\n{texto_menu}\nOpção: ')
+    opcao = input(f'{mensagem_escolha}{texto_menu}\nOpção: ')
     opcao = validar_opcao(opcao, texto_menu)
+    categoria = ''
 
     while opcao != '0':
         if opcao in ['2', '3', '4']:
             categoria = input('Informe a categoria que deseja consultar:\n')
             categoria = validar_categoria(categoria, dados)
+        print(resultado(dados, opcao, categoria))
 
-        if opcao == '1':
-            print('\nLista de categorias:')
-            print_lista_categorias(sorted(listar_categorias(dados)))
-        elif opcao == '2':
-            print(f'\nLista de produtos da categoria {categoria.upper()}:')
-            print_lista_sem_cat(listar_por_categoria(dados, categoria))
-        elif opcao == '3':
-            print(f'\nProduto mais caro da categoria {categoria.upper()}:')
-            print_produto_sem_cat(produto_mais_caro(dados, categoria))
-        elif opcao == '4':
-            print(f'\nProduto mais barato da categoria {categoria.upper()}:')
-            print_produto_sem_cat(produto_mais_barato(dados, categoria))
-        elif opcao == '5':
-            print('\nTop 10 produtos mais caros:')
-            print_lista_produto(top_10_caros(dados))
-        elif opcao == '6':
-            print('\nTop 10 produtos mais baratos:')
-            print_lista_produto(top_10_baratos(dados))
-        opcao = input(f'\nEscolha uma opção:\n{texto_menu}\nOpção: ')
+        opcao = input(f'{mensagem_escolha}{texto_menu}\nOpção: ')
         opcao = validar_opcao(opcao, texto_menu)
     else:
         print('\n\nAté breve!\n')
