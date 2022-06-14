@@ -1,2 +1,2 @@
 # lets-code-safra-ds-rm
-Repositório para contato com ferramenta de versionamento e armazenamento de códigos produzidos ao longo do curso.
+Repositório curso Top Coders - Cientista de Dados, Let's Code - Safra 
