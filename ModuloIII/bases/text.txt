@@ -1,0 +1,6 @@
+0001/t Roger Rendon/t Mexicano/t 30/t 
+0002/t Mario Lopes/t Mexicano/t 40/t 
+0003/t Roberto Nunes/t Portugues/t 50/t 
+0004/t Fabio Nascimento/t Brasileiro/t 29/t 
+0005/t Daniel Castro/t Italiano/t 30/t 
+0006/t Alfonso Orlandi/t Italiano/t 18/t 

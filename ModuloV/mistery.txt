@@ -1,0 +1,89 @@
+SELECT *
+FROM facebook_event_checkin
+WHERE (city = 'SQL City') AND (type = 'murder')
+
+Someone killed the guard! He took an arrow to the knee!
+
+Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave".
+
+
+SELECT *
+FROM facebook_event_checkin
+WHERE date = '20180115'
+
+
+SELECT *
+FROM person
+WHERE (address_street_name  = 'Northwestern Dr')
+ORDER BY address_number DESC
+
+Morty Schapiro
+id	name	license_id	address_number	address_street_name	ssn
+14887	Morty Schapiro	118009	4919	Northwestern Dr	111564949
+
+SELECT *
+FROM drivers_license
+WHERE (id = 118009	)
+
+id	age	height	eye_color	hair_color	gender	plate_number	car_make	car_model
+118009	64	84	blue	white	male	00NU00	Mercedes-Benz	E-Class
+
+SELECT *
+FROM facebook_event_checkin
+WHERE (person_id = 14887)
+person_id	event_id	event_name	date
+14887	4719	The Funky Grooves Tour	20180115
+
+
+
+SELECT *
+FROM person
+WHERE (address_street_name  = 'Franklin Ave') and (name LIKE '%Annabel%')
+id	name	license_id	address_number	address_street_name	ssn
+16371	Annabel Miller	490173	103	Franklin Ave	318771143
+
+SELECT *
+FROM facebook_event_checkin
+WHERE (person_id = 16371)
+
+
+SELECT *
+FROM person
+WHERE (address_street_name  = 'Franklin Ave') and (name = 'Annabel')
+
+
+SELECT *
+FROM facebook_event_checkin
+WHERE (event_name = 'The Funky Grooves Tour')
+
+person_id	event_id	event_name	date
+14887	4719	The Funky Grooves Tour	20180115
+16371	4719	The Funky Grooves Tour	20180115
+67318	4719	The Funky Grooves Tour	20180115
+
+SELECT *
+FROM person
+WHERE (id = 67318)
+id	name	license_id	address_number	address_street_name	ssn
+67318	Jeremy Bowers	423327	530	Washington Pl, Apt 3A	871539279
+
+SELECT *
+FROM interview
+WHERE (person_id = 67318)
+
+person_id	transcript
+67318	I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017.
+
+SELECT *, COUNT(person_id)
+FROM facebook_event_checkin
+WHERE (event_name LIKE '%Symphony%') AND (date LIKE '201712%')
+GROUP BY person_id
+
+
+
+SELECT *, COUNT(person_id), name
+FROM facebook_event_checkin
+JOIN person
+ON facebook_event_checkin.person_id = person.id
+WHERE (event_name LIKE '%Symphony%') AND (date LIKE '201712%')
+GROUP BY person_id
