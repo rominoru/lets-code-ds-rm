@@ -1,2 +1,2 @@
 # lets-code-ds-rm
-Repositório curso Top Coders - Cientista de Dados, Let's Code
+[Link](https://github.com/leoeiji/letscode-projeto-3) do Projeto 3
